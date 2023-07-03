@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @fauziahl
-- 👀 I’m interested in data analytics and data visualization
-- 🌱 I’m currently learning about tableau
-- 💞️ I’m looking to collaborate on data analytics
+- 👀 I’m interested in data 
 - 📫 How to reach me https://linkedin.com/in/fauziah-latifah/
 
 <!---
